@@ -10,4 +10,4 @@ cc -Wall -o cd-speed cdspeed.c
 
 # Author 
 
-Created By 0l3d
+Created By oled
